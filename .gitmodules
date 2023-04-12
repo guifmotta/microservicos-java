@@ -1,0 +1,3 @@
+[submodule "microservicos-java-pagamentos"]
+	path = microservicos-java-pagamentos
+	url = https://github.com/guifmotta/microservicos-java-pagamentos.git
