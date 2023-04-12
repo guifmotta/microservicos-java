@@ -4,3 +4,6 @@
 [submodule "microservicos-java-server"]
 	path = microservicos-java-server
 	url = https://github.com/guifmotta/microservicos-java-server.git
+[submodule "microservicos-java-pedidos"]
+	path = microservicos-java-pedidos
+	url = https://github.com/guifmotta/microservicos-java-pedidos.git
